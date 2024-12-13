@@ -1,3 +1,4 @@
+//Average time it took to generate 16GB file on my PC 16.632000s
 #include <iostream>
 #include<fstream>
 #define FILE_NAME "test.dat"
